@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="driver_entry.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="impl\kex.h" />
+    <ClInclude Include="impl\modules.h" />
+    <ClInclude Include="kernel\structures.h" />
+    <ClInclude Include="skCrypter\skCrypter.h" />
+    <ClInclude Include="impl\invoke.h" />
+  </ItemGroup>
+</Project>
