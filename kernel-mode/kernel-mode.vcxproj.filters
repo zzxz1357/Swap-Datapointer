@@ -9,5 +9,6 @@
     <ClInclude Include="kernel\structures.h" />
     <ClInclude Include="skCrypter\skCrypter.h" />
     <ClInclude Include="impl\invoke.h" />
+    <ClInclude Include="impl\comm\interface.h" />
   </ItemGroup>
 </Project>

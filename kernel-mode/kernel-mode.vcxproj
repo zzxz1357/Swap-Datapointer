@@ -162,6 +162,7 @@
     <ClCompile Include="driver_entry.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="impl\comm\interface.h" />
     <ClInclude Include="impl\invoke.h" />
     <ClInclude Include="impl\kex.h" />
     <ClInclude Include="impl\modules.h" />
